@@ -1,0 +1,25 @@
+{
+  "name": "miojo template",
+  "version": "1.0.0",
+  "description": "Estrutura base para aplicações web em Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "keywords": [
+    "nodeJS",
+    "semantic-ui",
+    "exemplo",
+    "sample",
+    "web",
+    "application"
+  ],
+  "author": "pablo verlly",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "handlebars": "^4.5.1",
+    "mongoose": "^5.7.7"
+  }
+}
